@@ -15,8 +15,8 @@ namespace DiceRoll
             int a; // the name of the first die
             int b; // the name of the second die
             int total; // the result
-            a = random.Next(1, 6);
-            b = random.Next(1, 6);
+            a = random.Next(1, 7);
+            b = random.Next(1, 7);
             total = a + b;
 
             Console.Write("Dice result: ");
