@@ -8,6 +8,8 @@ namespace DiceRoll
 {
     class Program
     {
+		// STEP 1
+		//
         //http://cs.dvc.edu/intro2programming/index.jsp?java#step1
         static void Main(string[] args)
         {
