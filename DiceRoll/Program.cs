@@ -10,6 +10,7 @@ namespace DiceRoll
     {
 		// STEP 1
 		// STEP 2
+		// STEP 3
 		//
         //http://cs.dvc.edu/intro2programming/index.jsp?java#step1
         static void Main(string[] args)
