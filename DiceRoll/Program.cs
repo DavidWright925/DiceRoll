@@ -32,4 +32,6 @@ namespace DiceRoll
             Console.WriteLine(")");
         }
     }
+
+    //DiceRoll2
 }
